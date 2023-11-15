@@ -55,7 +55,6 @@ body {
 .grid-container-parent {
   width: 100%;
   height: 100vh;
-  background-color: #3333;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   /* grid-area: "header menu menu menu" "hero hero hero hero"
